@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Loan Application</string>
+    <string name="required" />
+    <string name="email" />
+    <string name="title">Kredi Başvuru</string>
+    <string name="submit">Başvuruyu Tamamla</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="identity_number">Kimlik Numarası</string>
+    <string name="phoneEditText" />
+    <string name="loanAmount">Kredi Tutarı</string>
+    <string name="loanTerm">Kredi Vadesi </string>
+    <string name="MonthlyIncome">Aylık Gelir</string>
+    <string name="EmploymentStatus" />
+    <string name="ResidenceType" />
+    <string name="identity" />
+
+
+    <string-array name="egitim_duzeyi">
+        <item>Eğitim Düzeyi</item>
+        <item>Eğitimsiz</item>
+        <item>İlkokul</item>
+        <item>Ortaokul</item>
+        <item>İlköğretim</item>
+        <item>Lise veya Dengi Okul</item>
+        <item>Önlisans / Yüksekokul</item>
+        <item>Üniversite - Lisans</item>
+        <item>Yüksek Lisans</item>
+        <item>Doktora</item>
+
+
+    </string-array>
+
+    <string-array name="unvan">
+        <item>Müşterinin unvanı</item>
+    </string-array>
+
+
+    <string-array name="calisma_durumu">
+        <item>Müşterinin </item>
+    </string-array>
+
+    <string-array name="ikametgah">
+        <item>Müşterinin </item>
+    </string-array>
+
+    <string-array name="sector">
+        <item>Müşterinin </item>
+    </string-array>
+
+    <string-array name="meslek_kodu">
+        <item>Müşterinin </item>
+    </string-array>
+
+
+</resources>
